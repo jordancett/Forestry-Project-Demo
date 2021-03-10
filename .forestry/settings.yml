@@ -16,7 +16,7 @@ sections:
   templates:
   - public-page-template
 - type: jekyll-posts
-  label: Events
+  label: Posts
   create: all
   templates:
   - event-template
